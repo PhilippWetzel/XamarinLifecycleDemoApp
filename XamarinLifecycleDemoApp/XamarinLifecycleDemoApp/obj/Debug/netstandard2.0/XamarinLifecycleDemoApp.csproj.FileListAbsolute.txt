@@ -1,0 +1,13 @@
+C:\GitHub\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\bin\Debug\netstandard2.0\XamarinLifecycleDemoApp.deps.json
+C:\GitHub\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\bin\Debug\netstandard2.0\XamarinLifecycleDemoApp.dll
+C:\GitHub\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\bin\Debug\netstandard2.0\ref\XamarinLifecycleDemoApp.dll
+C:\GitHub\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\bin\Debug\netstandard2.0\XamarinLifecycleDemoApp.pdb
+C:\GitHub\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\obj\Debug\netstandard2.0\XamarinLifecycleDemoApp.csprojAssemblyReference.cache
+C:\GitHub\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\obj\Debug\netstandard2.0\XamarinLifecycleDemoApp.AssemblyInfoInputs.cache
+C:\GitHub\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\obj\Debug\netstandard2.0\XamarinLifecycleDemoApp.AssemblyInfo.cs
+C:\GitHub\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\obj\Debug\netstandard2.0\XamarinLifecycleDemoApp.dll
+C:\GitHub\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\obj\Debug\netstandard2.0\ref\XamarinLifecycleDemoApp.dll
+C:\GitHub\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\XamarinLifecycleDemoApp\obj\Debug\netstandard2.0\XamarinLifecycleDemoApp.pdb
